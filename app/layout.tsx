@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Profile",
+  title: "Louis Michael",
   description: "Redesign by Louis Michael",
 };
 
