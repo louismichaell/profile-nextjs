@@ -39,7 +39,7 @@ Congratulations! Your Next.js app is up and running.
 
 Now that your server is running, you're ready to start customizing your app! Here are a few things you can try next:
 
-- Modify the `app/page.js` to change the homepage.
+- Modify the `app/page.tsx` to change the homepage.
 - Explore the file-based routing by adding new files inside the `app` directory.
 - Install additional packages to extend functionality (e.g., styled-components for styling).
 
